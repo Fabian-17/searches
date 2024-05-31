@@ -38,4 +38,4 @@ En esta búsqueda lo primero que se hace es obtener el valor que está en el med
 
 ## Conclusión 
 
-La búsqueda lineal se podría usar para cuando la lista tiene pocos elementos pero si tenemos una lista con demasiados elementos esta búsqueda es demasiado lenta, por ello es más conveniente usar la búsqueda binaria que responde mejor ante listas con muchos elementos.
+La búsqueda lineal se podría usar para cuando la lista tiene pocos elementos pero si tenemos una lista con demasiados elementos esta búsqueda es demasiado lenta, por ello es más conveniente usar la búsqueda binaria que responde mejor ante listas con muchos elementos, otro tema a tener en cuenta es que la búsqueda lineal se puede usar tanto en listas ordenadas como en listas desordenadas, en cambio la búsqueda binaria solo se puede usar en listas ordenadas, por ende si se quiere usar el algoritmo de búsqueda binaria primero se debería de validar que la lista esté ordenada y ordenarla en caso de no estarlo.
